@@ -24,7 +24,7 @@ Let's come together to grow and achieve new heights in DevOps!
   </a> 
   </a>&ensp;
 
-  <a href="https://www.linkedin.com/in/shubhamlondhe1996/">
+  <a href="https://www.linkedin.com/in/iamadeelabbas1214/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
 
